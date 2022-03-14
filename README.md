@@ -3,7 +3,7 @@
 
 - I am a student at Pennsylvania State University, studying Computational Data Sciences.
 
-- I am a first year student, and have been programming for 6 months now.
+- I am a first year student.
 
 - I am familiar with Python 3 and SQL (MySQL and SQLite, but I will learn Oracle and others if a position requires me to do so). My Github profile is regularly updated with new projects that I learn about and complete in my studies, and I am very enthusiastic about learning more and continuing to add to my experience.
 
