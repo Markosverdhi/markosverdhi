@@ -1,18 +1,18 @@
-# markosverdhi
+# Markos Dhimiter Verdhi
  A cumulative documentation of the projects that I worked on or completed thus far.
 
 - I am a student at Pennsylvania State University, studying Computational Data Sciences.
 
 - I am a first year student, and have been programming for 6 months now.
 
-- I am familiar with Python 3
+- I am familiar with Python 3 and SQL (MySQL and SQLite, but I will learn Oracle and others if a position requires me to do so)
 
-- I am not working on anything currently, but I am looking for undergraduate research opportunities.
+- I am currently working on a program that will analyze trends in the past tropospheric air temperatures. While this may be information that is already available on the internet, the project is designed to familiarize myself with various tools used by Data Scientists.
 
-- I am currently learning: Basic Python and Julia for Data Science implementations.
+- I am currently learning: Python and SQL for Data Science implementations.
 
-- I am looking to collaborate on: Anything that can give me more exposure in the field.
+- I am looking to collaborate on: Anything that can give me more exposure in the field of Data Science and Programming in general.
 
-- I am looking for help with: finding information and getting started.
+- I am looking for help with: branching into multi-language programming
 
-- How to reach me: Via email at mdv5169@psu.edu
+- How to reach me: Via email at markosverdhi@gmail.com
