@@ -5,7 +5,7 @@
 
 - I am a first year student, and have been programming for 6 months now.
 
-- I am familiar with Python 3 and SQL (MySQL and SQLite, but I will learn Oracle and others if a position requires me to do so)
+- I am familiar with Python 3 and SQL (MySQL and SQLite, but I will learn Oracle and others if a position requires me to do so). My Github profile is regularly updated with new projects that I learn about and complete in my studies, and I am very enthusiastic about learning more and continuing to add to my experience.
 
 - I am currently working on a program that will analyze trends in the past tropospheric air temperatures. While this may be information that is already available on the internet, the project is designed to familiarize myself with various tools used by Data Scientists.
 
