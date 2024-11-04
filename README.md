@@ -1,7 +1,7 @@
 <h1 style="text-align:center;">Markos Dhimiter Verdhi</h1>
 <h2 style="text-align:center;">A non-cumulative documentation of the projects that I worked on or completed so far.</h2>
 <hr>
-<h3 style="text-align:center;"><i>I am a QA Analyst for the Artificial intelligence department of Davita. I am also an undergraduate student at Penn State University, studying Computational Data Sciences.</i></h3>
+<h3 style="text-align:center;"><i>I am a QA Analyst for Davita Kidney Care. I am also an undergraduate student at Penn State University, studying Computational Data Sciences.</i></h3>
 
 <h2>Technical Skills</h2>
 
